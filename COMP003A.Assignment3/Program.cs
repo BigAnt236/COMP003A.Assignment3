@@ -74,7 +74,7 @@ namespace COMP003A.Assignment3
             }
             else
             {
-                Console.WriteLine("Invalid input!");
+                Console.WriteLine("Invalid input!"); 
             }
         }
     }
